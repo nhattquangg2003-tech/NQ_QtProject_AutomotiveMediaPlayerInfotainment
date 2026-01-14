@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/Carbackview.png</file>
+        <file>resource/FavorateIcon.png</file>
+        <file>resource/MusicIcon.png</file>
+        <file>resource/MusicPlayIcon.png</file>
+        <file>resource/MuteIcon.png</file>
+        <file>resource/nextButton.png</file>
+        <file>resource/NextIcon.png</file>
+        <file>resource/nullIcon.png</file>
+        <file>resource/pausedButton.png</file>
+        <file>resource/PauseIcon.png</file>
+        <file>resource/playButtonIcon.png</file>
+        <file>resource/PlayIcon.png</file>
+        <file>resource/PlayListIcon.png</file>
+        <file>resource/previousButton.png</file>
+        <file>resource/PreviousIcon.png</file>
+        <file>resource/RepeatIcon.png</file>
+        <file>resource/roadBackground.jpg</file>
+        <file>resource/ThreeDotIcon.png</file>
+        <file>resource/VolumeIcon.png</file>
+        <file>resource/pause.png</file>
+        <file>resource/step-back.png</file>
+        <file>resource/step-forward.png</file>
+        <file>resource/heart.png</file>
+        <file>resource/list-minus.png</file>
+        <file>resource/music.png</file>
+        <file>resource/rotate-ccw.png</file>
+        <file>resource/volume-2.png</file>
+        <file>resource/ellipsis.png</file>
+        <file>resource/car.png</file>
+        <file>resource/map.png</file>
+        <file>resource/instagram.png</file>
+        <file>resource/record-s-black-and-purple-vinyl-disc-illustration-thumbnail.jpg</file>
+        <file>resource/record-s-black-and-purple-vinyl-disc-illustration-thumbnail-removebg-preview.png</file>
+        <file>resource/platinum-vinyl-record-on-white-vector-21239872-Photoroom.png</file>
+        <file>../../../../C:/Users/Owner/Downloads/Gemini_Generated_Image_gaxj0gaxj0gaxj0g.png</file>
+    </qresource>
+</RCC>

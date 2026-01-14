@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/SS21_22/">
+    <file alias="Main.qml">D:/QtProjects/coding/SS21_22/Main.qml</file>
+    <file alias="MyButton.qml">D:/QtProjects/coding/SS21_22/MyButton.qml</file>
+    <file alias="MyProgressbar.qml">D:/QtProjects/coding/SS21_22/MyProgressbar.qml</file>
+    <file alias="Background.qml">D:/QtProjects/coding/SS21_22/Background.qml</file>
+    <file alias="TrackInfo.qml">D:/QtProjects/coding/SS21_22/TrackInfo.qml</file>
+    <file alias="MyVolumeBar.qml">D:/QtProjects/coding/SS21_22/MyVolumeBar.qml</file>
+  </qresource>
+</RCC>
+

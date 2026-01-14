@@ -1,0 +1,346 @@
+{
+    "classes": [
+        {
+            "className": "MusicController",
+            "lineNumber": 17,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 15,
+                    "lineNumber": 57,
+                    "name": "loadInfoSong",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 21,
+                    "name": "currentTitle",
+                    "notify": "songChanged",
+                    "read": "currentTitle",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 22,
+                    "name": "currentArtist",
+                    "notify": "artistChanged",
+                    "read": "currentArtist",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "lineNumber": 25,
+                    "name": "currentCover",
+                    "notify": "coverChanged",
+                    "read": "currentCover",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QVariant",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "lineNumber": 27,
+                    "name": "isPlaying",
+                    "notify": "isPlayingChanged",
+                    "read": "isPlaying",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "lineNumber": 29,
+                    "name": "duration",
+                    "notify": "durationChanged",
+                    "read": "duration",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qint64",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "lineNumber": 30,
+                    "name": "position",
+                    "notify": "positionChanged",
+                    "read": "position",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qint64",
+                    "user": false,
+                    "write": "setPosition"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "lineNumber": 32,
+                    "name": "getdate",
+                    "notify": "datechanged",
+                    "read": "getdate",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 7,
+                    "lineNumber": 33,
+                    "name": "gettime",
+                    "notify": "timechanged",
+                    "read": "gettime",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 8,
+                    "lineNumber": 35,
+                    "name": "albumArt",
+                    "notify": "albumArtChanged",
+                    "read": "albumArt",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QImage",
+                    "user": false,
+                    "write": "setAlbumArt"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 9,
+                    "lineNumber": 37,
+                    "name": "volume",
+                    "notify": "volumeChanged",
+                    "read": "volume",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false,
+                    "write": "setVolume"
+                }
+            ],
+            "qualifiedClassName": "MusicController",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "gettime",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 0,
+                    "lineNumber": 71,
+                    "name": "timechanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "getdate",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 72,
+                    "name": "datechanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "duration",
+                            "type": "qint64"
+                        }
+                    ],
+                    "index": 2,
+                    "lineNumber": 74,
+                    "name": "durationChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "position",
+                            "type": "qint64"
+                        }
+                    ],
+                    "index": 3,
+                    "lineNumber": 75,
+                    "name": "positionChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "title",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 4,
+                    "lineNumber": 77,
+                    "name": "songChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "artist",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 5,
+                    "lineNumber": 78,
+                    "name": "artistChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "coverPath",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "index": 6,
+                    "lineNumber": 79,
+                    "name": "coverChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "isPlaying",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 7,
+                    "lineNumber": 82,
+                    "name": "isPlayingChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 8,
+                    "lineNumber": 84,
+                    "name": "scanMusicDone",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 9,
+                    "lineNumber": 86,
+                    "name": "albumArtChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "volume",
+                            "type": "qreal"
+                        }
+                    ],
+                    "index": 10,
+                    "lineNumber": 90,
+                    "name": "volumeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 11,
+                    "isConst": true,
+                    "lineNumber": 95,
+                    "name": "gettime",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "index": 12,
+                    "lineNumber": 98,
+                    "name": "playMusic",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 13,
+                    "lineNumber": 99,
+                    "name": "nextSong",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 14,
+                    "lineNumber": 100,
+                    "name": "previousSong",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "musiccontroller.h",
+    "outputRevision": 69
+}

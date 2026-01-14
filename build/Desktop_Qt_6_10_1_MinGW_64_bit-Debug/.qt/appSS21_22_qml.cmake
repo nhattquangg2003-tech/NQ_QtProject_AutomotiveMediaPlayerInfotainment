@@ -1,0 +1,19 @@
+
+set(target "appSS21_22")
+set(working_dir "D:/QtProjects/coding/SS21_22")
+set(src_and_dest_list
+    "D:/QtProjects/coding/SS21_22/Main.qml"
+    "D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/SS21_22/Main.qml"
+    "D:/QtProjects/coding/SS21_22/MyButton.qml"
+    "D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/SS21_22/MyButton.qml"
+    "D:/QtProjects/coding/SS21_22/MyProgressbar.qml"
+    "D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/SS21_22/MyProgressbar.qml"
+    "D:/QtProjects/coding/SS21_22/Background.qml"
+    "D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/SS21_22/Background.qml"
+    "D:/QtProjects/coding/SS21_22/TrackInfo.qml"
+    "D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/SS21_22/TrackInfo.qml"
+    "D:/QtProjects/coding/SS21_22/MyVolumeBar.qml"
+    "D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/SS21_22/MyVolumeBar.qml"
+
+)
+set(timestamp_file "D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/appSS21_22_qml.txt")

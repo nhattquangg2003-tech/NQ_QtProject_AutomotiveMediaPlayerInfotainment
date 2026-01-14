@@ -1,0 +1,12 @@
+--resource
+D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_SS21_22.qrc
+--resource
+D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appSS21_22_raw_qml_0.qrc
+--resource
+D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appSS21_22_raw_res_0.qrc
+/qt/qml/SS21_22/Main.qml
+/qt/qml/SS21_22/MyButton.qml
+/qt/qml/SS21_22/MyProgressbar.qml
+/qt/qml/SS21_22/Background.qml
+/qt/qml/SS21_22/TrackInfo.qml
+/qt/qml/SS21_22/MyVolumeBar.qml

@@ -1,0 +1,11 @@
+module SS21_22
+typeinfo appSS21_22.qmltypes
+prefer :/qt/qml/SS21_22/
+Main 1.0 Main.qml
+MyButton 1.0 MyButton.qml
+MyProgressbar 1.0 MyProgressbar.qml
+Background 1.0 Background.qml
+TrackInfo 1.0 TrackInfo.qml
+MyVolumeBar 1.0 MyVolumeBar.qml
+depends QtQuick
+

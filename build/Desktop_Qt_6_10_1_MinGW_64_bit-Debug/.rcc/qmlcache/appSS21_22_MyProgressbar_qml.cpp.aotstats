@@ -1,0 +1,95 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 149,
+                            "functionName": "radius",
+                            "line": 12,
+                            "message": "Cannot access value for name progressbarRadius"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 231,
+                            "functionName": "fill",
+                            "line": 10,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 92,
+                            "functionName": "width",
+                            "line": 16,
+                            "message": "Cannot access value for name progress"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 159,
+                            "functionName": "height",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 45,
+                            "functionName": "radius",
+                            "line": 18,
+                            "message": "Cannot access value for name progressbarRadius"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 135,
+                            "functionName": "orientation",
+                            "line": 21,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 113,
+                            "functionName": "target",
+                            "line": 30,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 135,
+                            "functionName": "type",
+                            "line": 33,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 1030,
+                            "functionName": "onClicked",
+                            "line": 38,
+                            "message": "Cannot access value for name musicController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 88,
+                            "functionName": "fill",
+                            "line": 37,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "D:/QtProjects/coding/SS21_22/MyProgressbar.qml"
+                }
+            ],
+            "moduleId": "SS21_22(appSS21_22)"
+        }
+    ]
+}

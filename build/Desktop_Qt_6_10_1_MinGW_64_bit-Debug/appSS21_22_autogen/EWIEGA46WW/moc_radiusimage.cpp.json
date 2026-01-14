@@ -1,0 +1,91 @@
+{
+    "classes": [
+        {
+            "className": "RadiusImage",
+            "lineNumber": 10,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 13,
+                    "name": "image",
+                    "notify": "imageChanged",
+                    "read": "image",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QImage",
+                    "user": false,
+                    "write": "setImage"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 14,
+                    "name": "radius",
+                    "notify": "radiusChanged",
+                    "read": "radius",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setRadius"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "lineNumber": 15,
+                    "name": "source",
+                    "notify": "sourceChanged",
+                    "read": "source",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QUrl",
+                    "user": false,
+                    "write": "setSource"
+                }
+            ],
+            "qualifiedClassName": "RadiusImage",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 32,
+                    "name": "imageChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 33,
+                    "name": "radiusChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 34,
+                    "name": "sourceChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QQuickPaintedItem"
+                }
+            ]
+        }
+    ],
+    "inputFile": "radiusimage.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,12 @@
+-I
+D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.10.1/mingw_64/qml
+--resource
+D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_SS21_22.qrc
+--resource
+D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appSS21_22_raw_qml_0.qrc
+--resource
+D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appSS21_22_raw_res_0.qrc
+--module
+SS21_22

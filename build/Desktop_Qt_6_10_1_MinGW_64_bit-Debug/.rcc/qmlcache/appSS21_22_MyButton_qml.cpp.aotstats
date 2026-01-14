@@ -1,0 +1,151 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 12,
+                            "durationMicroseconds": 156,
+                            "functionName": "color",
+                            "line": 16,
+                            "message": "Cannot access value for name buttonColor"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 13,
+                            "durationMicroseconds": 44,
+                            "functionName": "radius",
+                            "line": 17,
+                            "message": "Cannot access value for name btnradius"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 245,
+                            "functionName": "fill",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 45,
+                            "functionName": "width",
+                            "line": 18,
+                            "message": "Cannot access value for name btnborder"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 36,
+                            "functionName": "color",
+                            "line": 20,
+                            "message": "Cannot access value for name btnborderColor"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 41,
+                            "functionName": "source",
+                            "line": 23,
+                            "message": "Cannot access value for name iconSource"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 228,
+                            "functionName": "width",
+                            "line": 26,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 131,
+                            "functionName": "height",
+                            "line": 27,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 89,
+                            "functionName": "fillMode",
+                            "line": 28,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 115,
+                            "functionName": "horizontalCenter",
+                            "line": 24,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 102,
+                            "functionName": "verticalCenter",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 133,
+                            "functionName": "onPressed",
+                            "line": 34,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 256,
+                            "functionName": "onClicked",
+                            "line": 37,
+                            "message": "method btnclicked cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 200,
+                            "functionName": "onReleased",
+                            "line": 40,
+                            "message": "method btnreleased cannot be resolved."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 104,
+                            "functionName": "onEntered",
+                            "line": 45,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 96,
+                            "functionName": "onExited",
+                            "line": 48,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 58,
+                            "functionName": "fill",
+                            "line": 32,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "D:/QtProjects/coding/SS21_22/MyButton.qml"
+                }
+            ],
+            "moduleId": "SS21_22(appSS21_22)"
+        }
+    ]
+}

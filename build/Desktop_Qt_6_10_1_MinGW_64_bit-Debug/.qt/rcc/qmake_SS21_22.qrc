@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SS21_22">
+    <file alias="qmldir">D:/QtProjects/coding/SS21_22/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/SS21_22/qmldir</file>
+  </qresource>
+</RCC>
+

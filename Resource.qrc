@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/car.png</file>
+        <file>resource/Carbackview.png</file>
+        <file>resource/ellipsis.png</file>
+        <file>resource/FavorateIcon.png</file>
+        <file>resource/heart.png</file>
+        <file>resource/instagram.png</file>
+        <file>resource/list-minus.png</file>
+        <file>resource/map.png</file>
+        <file>resource/music.png</file>
+        <file>resource/MusicIcon.png</file>
+        <file>resource/MusicPlayIcon.png</file>
+        <file>resource/MuteIcon.png</file>
+        <file>resource/nextButton.png</file>
+        <file>resource/NextIcon.png</file>
+        <file>resource/nullIcon.png</file>
+        <file>resource/pause.png</file>
+        <file>resource/pausedButton.png</file>
+        <file>resource/PauseIcon.png</file>
+        <file>resource/platinum-vinyl-record-on-white-vector-21239872-Photoroom.png</file>
+        <file>resource/playButtonIcon.png</file>
+        <file>resource/PlayIcon.png</file>
+        <file>resource/PlayListIcon.png</file>
+        <file>resource/previousButton.png</file>
+        <file>resource/PreviousIcon.png</file>
+        <file>resource/record-s-black-and-purple-vinyl-disc-illustration-thumbnail.jpg</file>
+        <file>resource/record-s-black-and-purple-vinyl-disc-illustration-thumbnail-removebg-preview.png</file>
+        <file>resource/RepeatIcon.png</file>
+        <file>resource/roadBackground.jpg</file>
+        <file>resource/rotate-ccw.png</file>
+        <file>resource/step-back.png</file>
+        <file>resource/step-forward.png</file>
+        <file>resource/ThreeDotIcon.png</file>
+        <file>resource/volume-2.png</file>
+        <file>resource/VolumeIcon.png</file>
+        <file>resource/music-cd-svgrepo-com (1).png</file>
+        <file>resource/weather-symbol-4-svgrepo-com.png</file>
+        <file>resource/video-file-svgrepo-com.png</file>
+        <file>resource/map-pointer-svgrepo-com.png</file>
+        <file>resource/porsche-911-svgrepo-com.png</file>
+        <file>resource/porsche-svgrepo-com.png</file>
+        <file>resource/bmw-2-logo-svgrepo-com.png</file>
+        <file>resource/sport-car-svgrepo-com.png</file>
+        <file>resource/next-998-svgrepo-com.png</file>
+        <file>resource/pause-svgrepo-com.png</file>
+        <file>resource/play-svgrepo-com.png</file>
+        <file>resource/previous-999-svgrepo-com.png</file>
+        <file>resource/rocket-svgrepo-com.png</file>
+        <file>resource/26be18d25d414371026a756a416a2523.jpg</file>
+        <file>resource/volume-max-svgrepo-com.png</file>
+        <file>resource/volume-xmark-svgrepo-com.png</file>
+        <file>resource/volume-minus-svgrepo-com.png</file>
+        <file>resource/volume-plus-svgrepo-com.png</file>
+    </qresource>
+</RCC>

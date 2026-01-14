@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SS21_22/">
+    <file alias="Resource.qrc">D:/QtProjects/coding/SS21_22/Resource.qrc</file>
+  </qresource>
+</RCC>
+
