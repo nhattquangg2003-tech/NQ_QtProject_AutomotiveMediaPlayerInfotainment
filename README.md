@@ -23,10 +23,6 @@ This project is a dedicated automotive music player component, developed using t
 * **Build System:** CMake.
 * **Design Pattern:** Model-View-Controller (MVC).
 
-## 📂 Project Structure
-- `src/`: C++ Source code (Logic & Custom Painted Items).
-- `ui/`: QML files and Custom UI Components.
-- `assets/`: UI resources including icons, fonts, and test media.
 <img width="1280" height="599" alt="image" src="https://github.com/user-attachments/assets/32350674-9e14-43ed-a407-d5f6786d7657" />
 
 ---
